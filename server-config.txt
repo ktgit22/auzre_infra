@@ -1,6 +1,6 @@
 windows vm : NTMS-web-prod-01
 size: standard DS1_v3
-Region: East US
+Region: west  US
 Owner: Devops Team
 Environment : UAT
 
