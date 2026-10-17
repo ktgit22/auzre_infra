@@ -1,4 +1,4 @@
-windows vm : web-prod-01
+windows vm : NTMS-web-prod-01
 size: standard DS1_v3
 Region: East US
 Owner: Devops Team
